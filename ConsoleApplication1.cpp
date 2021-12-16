@@ -1,5 +1,5 @@
 /*
- *  @author : wen-pinn fang <wpfang@saturn.yzu.edu.tw>
+ *  @author : s1102005 <s1102005@mail.yzu.edu.tw>
  *  @version : 1.0
 */
 
